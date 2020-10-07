@@ -1,0 +1,7 @@
+{
+    "name": "res",
+    "version": "0.0.1",
+    "devDependencies": {
+        "@types/i18n-js": "^3.0.3"
+    }
+}
